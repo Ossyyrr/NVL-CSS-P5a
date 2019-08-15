@@ -1,0 +1,18 @@
+#mc{
+    width: 316px;
+    height: 170px;
+    background-color: red;
+    position: relative;
+}
+
+#b{
+    position: relative;
+    top: 10px;
+    margin: 10px;
+    width: 200px;
+    border: 16px solid orange;
+    border-color: orange;
+    padding: 32px;
+    background-color: yellow;
+}
+/*He puesto position relative para colocarlo bien, poniendo solo el margin 10px no lo cogia por la parte superior y no se porqué ocurría*/
